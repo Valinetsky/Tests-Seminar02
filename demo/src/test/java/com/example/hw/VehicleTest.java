@@ -56,5 +56,4 @@ class VehicleTest {
 		moto.park();
 		assertThat(moto.getSpeed()).isEqualTo(0);
 	}
-
 }
